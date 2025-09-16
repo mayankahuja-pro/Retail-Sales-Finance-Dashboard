@@ -107,4 +107,4 @@ This project demonstrates the ability to translate raw data into actionable busi
 
 -----
 
-**Connect with me:**  https://github.com/mayankahuja-pro/
+**Connect with me:**   https://www.linkedin.com/in/mayankahuja-pro/
