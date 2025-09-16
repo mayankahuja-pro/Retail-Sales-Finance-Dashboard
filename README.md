@@ -71,6 +71,10 @@ GROUP BY
 ORDER BY
     Total_Sales DESC;
 ```
+<img width="1920" height="1080" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/35717c88-7e2e-403f-b777-98f2cd47a621" />
+<img width="1920" height="1080" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/e93cea25-cf13-49d7-8753-8c3ce6ed5515" />
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/5fa80b89-e8c1-401f-8897-12e67e34a5f5" />
+
 
 ### **3. Interactive Dashboard**
 
